@@ -13,8 +13,7 @@ Alus rūpnīcas krāvēju darbdienas simulācija:
           Katram darbiniekam var norādīt vecumu un pieredzi, papildus pēc nejaušības principa tiek ģenerēti laimes procenti. Šie parametri vēlāk tiek izmantoti, lai aprēķinātu darbinieka izturību.
 	  Diemžēl man ir jānorāda, ka Pēteris nevar būt priecīgs un laimes koeficients viņa izturību nepaaugstina.
 
-          Vēlāk, veicot savus ikdienišķos pienākumus, katrs no krāvējiem no rūpnīcas uz noliktavu nes alu, un līdz ar katru aiznesto pudeli viņu izturība samazinās, līdz viņi vairs nav spējīgi neko izdarīt.
-          Šo procesu mēs varam vērot darba pārskatā.
+          Vēlāk, veicot savus ikdienišķos pienākumus, katrs no krāvējiem no rūpnīcas uz noliktavu nes alu, un līdz ar katru aiznesto pudeli viņu izturība samazinās, līdz viņi vairs nav spējīgi neko izdarīt. Šo procesu mēs varam vērot darba pārskatā.
 
        3. Sagatavojam pārskatu par rūpnīcā palikušajām alus pudelēm.
 
